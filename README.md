@@ -1,2 +1,2 @@
 # hello-world2
-not sure what i'm doing yet, but this is my first repository. at least i've come this far!
+this is scott. i'm giving this my all, so any help is appreciated. i want to succeed.
